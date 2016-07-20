@@ -1,5 +1,5 @@
 # Anet-Monthly-Recurring on iOS
-Authorize.net Monthly Recurring Demo
+Authorize.net Monthly Recurring on iOS Demo
 
 Since Authorize.net iOS SDK doesn't provide support for Monthly Recurring, 
 This is one of the ways how one can enable their apps to use Monthly Recurring feature provided by Anet.
