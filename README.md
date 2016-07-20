@@ -1,12 +1,12 @@
-# Anet-Monthly-Recurring
+# Anet-Monthly-Recurring on iOS
 Authorize.net Monthly Recurring Demo
 
 Since Authorize.net iOS SDK doesn't provide support for Monthly Recurring, 
-This is one of the ways how one can enable their apps to use Monthly Recurring.
+This is one of the ways how one can enable their apps to use Monthly Recurring feature provided by Anet.
 
 This Demo uses Alamofire for sending Request.
 You can use it without alamofire, too!
-You will need test mode enabled Transaction Key and Merchant Credentials.
+You will need a test mode enabled Transaction Key and valid Merchant Credentials [Test].
 
 HOW TO USE?
 
