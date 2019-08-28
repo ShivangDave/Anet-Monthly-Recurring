@@ -13,7 +13,7 @@ HOW TO USE?
 The included demo playground file contains multiple dictonaries and arrays.
 Its values needs to be changed by you according to your own requirements.
 
-For better understanding, I have splitted them into multiple dictonaries.
+For better understanding, I have split them into multiple dictonaries.
 You can merge them into one if you want to.
 
 Then pass the whole dictionary as a POST method parameter 
